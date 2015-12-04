@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projekt_swe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_filter">filter</string>
+    <string name="title_activity_overview_room">overview_room</string>
+    <string name="title_activity_overview_status">overview_status</string>
+    <string name="title_activity_list_room">list_room</string>
+</resources>
